@@ -473,7 +473,7 @@ class ChatBot(Client):
                 except:
                     pass
             elif ("frank listen" in msg "*frank" in msg):
-                reply = "yes" "please entered full message"
+                reply = "yes"
                 sendMsg()
             elif ("frank i love you" in msg):
                 reply = "but i love your sister"
